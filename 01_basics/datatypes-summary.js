@@ -62,3 +62,4 @@ String typeof String
 function typeof function  (object-function)
 Array typeof Object
 */
+
